@@ -1,6 +1,6 @@
-### Hey thanks for visiting my GitHub page,
+### Hey
 
-I'm Robert. I am a junior data science undergraduate student at The University of Texas at Arlington. Currently pivoting into tech and looking to build a robust domain of knowledge and wisdom in this space.
+Thanks for visitng my GitHub page. I'm Robert. I am a junior data science undergraduate student at The University of Texas at Arlington. Currently pivoting into tech and looking to build a robust domain of knowledge and wisdom in this space.
 
 - 🔭 I’m currently working on ... finishing my undergraduate degree and conducting undergraduate research
 - 🌱 I’m currently learning ... data science, data engineering, machine learning, and deep learning. Quantum science piques my interest as well as quantum computing
