@@ -10,7 +10,7 @@ I'm **Robert**, I am a senior data science student at **The University of Texas 
 
 - 💻 **Aspirations**: Building impactful solutions—be it a startup, contributing to open-source, or collaborating with tech companies.
 
-- 📫 **Connect**: Reach out via [LinkedIn](#) or my social platforms.
+- 📫 **Connect**: Reach out via [LinkedIn](https://linkedin.com/in/robertcocker) or my social platforms.
 
 ---
 
