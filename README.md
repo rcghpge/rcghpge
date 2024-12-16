@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to my GitHub page!
 
 I'm **Robert**, a junior Data Science student at **The University of Texas at Arlington**, diving into tech to build a solid foundation in data and computing.
 
