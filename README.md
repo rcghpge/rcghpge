@@ -1,8 +1,17 @@
-### Hello,
+# Welcome!
 
-Thanks for visiting my GitHub page. I'm Robert. I am a junior data science undergraduate student at The University of Texas at Arlington. Currently pivoting into tech and looking to build a robust domain of knowledge and wisdom in this space.
+I'm **Robert**, a junior Data Science student at **The University of Texas at Arlington**, diving into tech to build a solid foundation in data and computing.
 
-- 🔭 I’m currently working on ... finishing my undergraduate degree and conducting undergraduate research
-- 🌱 I’m currently learning ... data science, data engineering, machine learning, and deep learning. HPC, quantum science, engineering, and computing pique my interest these days
-- 💻 I’m looking to build ... whether it's my own startup, @ a startup, open-source communities, a tech company, big tech company, or just looking to make a lasting positive impact in the world and society
-- 📫 How to reach me: ... LinkedIn or ping me on socials
+### About Me:
+
+- 🔭 **Current Focus**: Completing my degree and engaging in undergraduate research.
+
+- 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
+
+- 💻 **Aspirations**: Building impactful solutions—be it a startup, contributing to open-source, or collaborating with tech companies.
+
+- 📫 **Connect**: Reach out via [LinkedIn](#) or my social platforms.
+
+---
+
+Wishing everyone a prosperous and innovative 2025!
