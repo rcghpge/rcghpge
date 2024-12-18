@@ -9,7 +9,7 @@ a solid foundation in STEM.
 
 - 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
 
-- 💻 **Aspirations**: Building impactful solutions—be it a startup, contributing to open-source, or collaborating with tech companies.
+- 💻 **Aspirations**: Building impactful solutions—be it a startup, contributing to open-source, or collaborating with peers and the community.
 
 - 📫 **Connect**: You can ping me via [LinkedIn](https://linkedin.com/in/robertcocker) or on socials.
 
