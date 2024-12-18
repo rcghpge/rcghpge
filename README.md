@@ -4,7 +4,7 @@ I'm **Robert**, I am a senior data science student at **The University of Texas 
 
 ### About Me:
 
-- 🔭 **Current Focus**: Completing my degree and engaging in undergraduate research.
+- 🔭 **Current Focus**: Completing my degree and engaging in undergraduate research and industry-wide R&D.
 
 - 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
 
