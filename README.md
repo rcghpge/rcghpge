@@ -5,7 +5,7 @@ a solid foundation in STEM.
 
 ### About Me:
 
-- 🔭 **Current Focus**: Completing my degree and engaging in undergraduate research and R&D of the coolest stuff.
+- 🔭 **Current Focus**: Completing my degree, doing undergraduate researc, and doing R&D in building the coolest stuff.
 
 - 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
 
