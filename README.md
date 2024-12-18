@@ -1,6 +1,7 @@
 # Welcome to my GitHub page!
 
-I'm **Robert**, I am a senior data science student at **The University of Texas at Arlington**, diving into tech to build a solid foundation in stem.
+I'm **Robert**, I am a senior data science student at **The University of Texas at Arlington**, researching and building cool stuff in tech and working toward building
+a solid foundation in stem.
 
 ### About Me:
 
