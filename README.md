@@ -11,8 +11,6 @@ a solid foundation in STEM.
 
 - 💻 **Aspirations**: Building impactful solutions—be it the startup community, big tech, contributing to open-source, or collaborating with peers in building a sense of community.
 
-- 📫 **Connect**: You can ping me via [LinkedIn](https://linkedin.com/in/robertcocker) or on socials.
-
 ---
 
 Wishing everyone a prosperous and innovative 2025!
