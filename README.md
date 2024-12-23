@@ -14,3 +14,5 @@ a solid foundation in STEM.
 ---
 
 Wishing everyone a prosperous and innovative 2025!
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcghpge&layout=compact&langs_count=20)
