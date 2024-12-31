@@ -7,7 +7,7 @@ a solid foundation in STEM.
 
 - 🔭 **Current Focus**: Completing my degree, pursuing research at the undergraduate level, and doing R&D at a broader scope in building the coolest stuff.
 
-- 💻 **Aspirations**: Building cool stuff and contributing to society. Appreciating the little things in life. Building a better world.
+- 💻 **Aspirations**: Building cool stuff with cool peeps and contributing to society. Appreciating the little things in life. Building a better world.
 
 - 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
   
