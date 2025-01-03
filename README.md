@@ -11,5 +11,3 @@ a solid foundation in STEM.
 
 - 🌱 **Learning**: Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, and Engineering.
   
----
-
