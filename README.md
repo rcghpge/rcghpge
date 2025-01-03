@@ -13,5 +13,3 @@ a solid foundation in STEM.
   
 ---
 
-Wishing everyone a prosperous and innovative 2025!
-
