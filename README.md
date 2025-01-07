@@ -9,7 +9,7 @@ a solid foundation in STEM.
 
 - 💻 **Aspirations**: Building cool stuff with cool peeps and contributing to society. Appreciating the little things in life. Building a better world.
 
-- 🌱 **Learning**: Artifiical Intelligence, Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, Computing and Engineering, Computational Science.
+- 🌱 **Learning**: Artifiical Intelligence, Data Science, Data Engineering, Machine Learning, Deep Learning, HPC, Quantum Science, Computing and Engineering, Computational Science, and Systems level Programming.
 
 ---
   
