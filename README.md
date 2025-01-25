@@ -5,7 +5,7 @@ a solid foundation in STEM.
 
 ### About Me:
 
-- 🔭 **Current Focus**: Completing my degree, pursuing research at the undergraduate level, and conducting R&D at a broader scope in building the coolest stuff.
+- 🔭 **Current Focus**: Completing my degree, pursuing research at the undergraduate level, and conducting research and development with a focus on a broader scope.
 
 - 💻 **Aspirations**: Building cool stuff with cool peeps and contributing to society. Appreciating the little things in life. Building a better world.
 
