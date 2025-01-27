@@ -1,4 +1,3 @@
-Generate an About in Mojo 🔥
 ```mojo
 from collections.list import List
 from collections.string import String
