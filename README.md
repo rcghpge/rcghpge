@@ -4,7 +4,7 @@ from collections.string import String
 
 fn about_me() raises -> String:
     """
-    Generate an About Me in Mojo.
+    Generate an About Me in Mojo 🔥
     """
     var name = "Robert"
     var profession = "full-time university student."
