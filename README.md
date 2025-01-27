@@ -14,13 +14,13 @@ fn about_me() raises -> String:
     interests.append("Data Science")
     var current_focus = "graduating"
 
-    var about_me_text2 = String("Hey, I'm " + String(name) + ". I am a " + String(profession))
-    about_me_text2 += ("\nMy interests include:\n")
+    var about_me_text = String("Hey, I'm " + String(name) + ". I am a " + String(profession))
+    about_me_text += ("\nMy interests include:\n")
     for i in range(len(interests)):
         var interest = interests[i]
-        about_me_text2 += String("- ") + interest + "\n"
-    about_me_text2 += ("Currently, I'm focusing on " + String(current_focus))
-    return about_me_text2
+        about_me_text += String("- ") + interest + "\n"
+    about_me_text += ("Currently, I'm focusing on " + String(current_focus))
+    return about_me_text
 
 fn main() raises:
     print(about_me())
