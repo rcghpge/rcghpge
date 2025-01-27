@@ -2,7 +2,6 @@
 from collections.list import List
 from collections.string import String
 
-
 fn about_me() raises -> String:
     """
     Generates a brief introduction about me.
