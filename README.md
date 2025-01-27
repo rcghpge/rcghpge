@@ -4,9 +4,9 @@ from collections.string import String
 
 fn about_me() raises -> String:
     """
-    Generates a brief introduction about me.
+    Generates an About Me in Mojo.
     """
-    var name = "Robert Cocker"
+    var name = "Robert"
     var profession = "Full-time University Student."
     var interests = List[String]()
     interests.append("Programming")
@@ -14,7 +14,7 @@ fn about_me() raises -> String:
     interests.append("Data Science")
     var current_focus = "graduating"
 
-    var about_me_text2 = String("Hello, I'm " + String(name) + ". I am a " + String(profession))
+    var about_me_text2 = String("Hey, I'm " + String(name) + ". I am a " + String(profession))
     about_me_text2 += ("\nMy interests include:\n")
     for i in range(len(interests)):
         var interest = interests[i]
