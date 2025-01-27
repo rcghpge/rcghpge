@@ -1,6 +1,5 @@
 ```mojo
-from collections.list import List
-from collections.string import String
+from collections import list, string
 
 fn about_me() raises -> String:
     """
