@@ -1,3 +1,4 @@
+Generate an About in Mojo 🔥
 ```mojo
 from collections.list import List
 from collections.string import String
@@ -7,12 +8,12 @@ fn about_me() raises -> String:
     Generate an About Me in Mojo.
     """
     var name = "Robert"
-    var profession = "Full-time University Student."
+    var profession = "full-time university student."
     var interests = List[String]()
     interests.append("Programming")
     interests.append("AI")
     interests.append("Data Science")
-    var current_focus = "graduating"
+    var current_focus = "graduating."
 
     var about_me_text = String("Hey, I'm " + String(name) + ". I am a " + String(profession))
     about_me_text += ("\nMy interests include:\n")
