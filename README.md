@@ -8,7 +8,10 @@ fn about_me() raises -> String:
     var name = "Robert"
     var profession = "full-time university student."
     var interests = List[String]()
+    interests.append("Research")
+    interests.append("Development")
     interests.append("Programming")
+    interests.append("Engineering")
     interests.append("AI")
     interests.append("Data Science")
     var current_focus = "graduating."
