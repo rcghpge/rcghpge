@@ -29,3 +29,4 @@ fn about_me() raises -> String:
 fn main() raises:
     print(about_me())
 ```
+- TLDR: Hey, I'm Robert. This is my GitHub page to share programming knowledge with the open source comminity.
