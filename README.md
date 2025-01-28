@@ -1,3 +1,5 @@
+# About Me
+Generate an About Me for your GitHub page and also run your first line of code in Mojo 🔥
 ```mojo
 from collections import list, string
 
