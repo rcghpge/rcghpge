@@ -1,30 +1,13 @@
 # About Me
 ```python
+"""
+Generate an About Me in Python
+"""
 def about_me() -> str:
-    """
-    Generate an About Me in Python.
-    """
-    name = "Robert"
-    profession = "full-time university student."
-    interests = [
-        "Research",
-        "Development",
-        "Programming",
-        "Engineering",
-        "AI",
-        "Data Science"
-    ]
-    current_focus = "graduating."
+    return "Hey, I'm Robert. I am a full-time university student.\nMy interests include:\n" + "\n".join(
+        "- " + i for i in ["Research", "Development", "Programming", "Engineering", "AI", "Data Science"]
+    ) + "\nCurrently, I'm focusing on graduating."
 
-    about_me_text = f"Hey, I'm {name}. I am a {profession}\n"
-    about_me_text += "My interests include:\n"
-    for interest in interests:
-        about_me_text += f"- {interest}\n"
-    about_me_text += f"Currently, I'm focusing on {current_focus}"
-
-    return about_me_text
-
-if __name__ == "__main__":
-    print(about_me())
+print(about_me())
 ```
 TLDR: I'm Robert - MySpace taught me how to code
