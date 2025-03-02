@@ -11,4 +11,3 @@ def about_me() -> str:
 
 print(about_me())
 ```
-TLDR: I'm Robert - MySpace taught me how to code
