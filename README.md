@@ -7,7 +7,7 @@ def about_me() -> str:
     return ("Hey, I'm Robert. I am a full-time university student.\n"
             "My interests include:\n" + "\n".join(f"- {i}" for i in 
             ["Research", "Development", "Programming", "Engineering", "AI", "Data Science"]) + 
-            "\nCurrently, I'm focusing on graduating.")
+            "\nCurrently, I'm focusing on graduating and moving into industry.")
 
 print(about_me())
 ```
