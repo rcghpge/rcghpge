@@ -1,1 +1,6 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=rcghpge&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=rcghpge&theme=transparent&hide_border=true" 
+    width="800" 
+  />
+</p>
