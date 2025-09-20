@@ -1,13 +1,1 @@
-# About Me
-```python
-"""
-Generate an About Me in Python
-"""
-def about_me() -> str:
-    return ("Hey, I'm Robert. I am a full-time university student.\n"
-            "My interests include:\n" + "\n".join(f"- {i}" for i in 
-            ["Research", "Development", "Programming", "Engineering", "AI", "Data Science"]) + 
-            "\nCurrently, I'm focusing on graduating and moving into industry.")
-
-print(about_me())
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=rcghpge&theme=transparent&hide_border=true)
