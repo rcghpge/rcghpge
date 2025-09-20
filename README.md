@@ -1,6 +1,3 @@
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rcghpge&theme=transparent&hide_border=true" 
-    width="700" 
-  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rcghpge&theme=transparent&hide_border=true&card_width=800" />
 </p>
