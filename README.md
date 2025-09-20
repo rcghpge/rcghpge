@@ -1,1 +1,1 @@
-![Metrics](https://github.com/rcghpge/rcghpge/blob/main/github-metrics.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rcghpge&theme=github-compact)
